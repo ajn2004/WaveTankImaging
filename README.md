@@ -30,9 +30,13 @@ pyton main.py
 ```
 ## Requirements
 
+Need to take in a video and output amplitude of waves recorded in video
 In order to work this code needs to perform the following actions (in order)
-1)
-2)
-3)
-4)
+- Load Video (mp4) to Image stack
+- Determine Pixel size
+2) Separate out the frames
+3) For each frame
+	1) Determine a baseline
+	2) Determine wave amplitude from baseline
+	3) Record amplitude/deviation for future analysis
 ...
