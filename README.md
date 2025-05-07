@@ -28,3 +28,11 @@ From there you should be able to run the code with
 ```bash
 pyton main.py
 ```
+## Requirements
+
+In order to work this code needs to perform the following actions (in order)
+1)
+2)
+3)
+4)
+...
